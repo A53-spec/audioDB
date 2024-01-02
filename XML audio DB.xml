@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metalstore>
+	<band name="Metallica">
+		<maintype>heavy metal</maintype>
+		<year>1981</year>
+		<country>USA</country>
+		<members>
+			<vocals>James Hetfield</vocals>
+			<guitar>Kirk Hammett</guitar>
+			<bass>Cliff Burton</bass>
+			<drums>Lars Ulrich</drums>
+		</members>
+		<albums>
+			<albums name="Kill 'Em All">
+				<type>thrash metal</type>
+				<label>Megaforce</label>
+				<date>25/07/1983</date>
+				<length>51:20</length>
+				<tracks>
+					<track name="Hit the Lights">
+						<length>4:17</length>
+					</track>
+					<track name="The Four Horsemen">
+						<length>7:13</length>
+					</track>
+					<track name="Motorbreath">
+						<length>3:08</length>
+					</track>
+					<track name="Jump in the Fire">
+						<length>4:41</length>
+					</track>
+					<track name="Pulling Teeth">
+						<length>4:14</length>
+					</track>
+					<track name="Whiplash">
+						<length>4:08</length>
+					</track>
+					<track name="Phantom Lord">
+						<length>5:01</length>
+					</track>
+					<track name="No Remorse">
+						<length>6:26</length>
+					</track>
+					<track name="Seek and Destroy">
+						<length>6:54</length>
+					</track>
+					<track name="Metal Militia">
+						<length>5:11</length>
+					</track>
+				</tracks>
+				<bonus name="1988 Elektra reissue">
+					<track name="Am I Evil">
+						<length>7:50</length>
+					</track>
+					<track name="Blitzkrieg">
+						<length>3:37</length>
+					</track>
+				</bonus>
+				<bonus name="Digital reissue">
+					<track name="The Four Horsemen (live)">
+						<length>0</length>
+					</track>
+					<track name="Whiplas (live)">
+						<length>0</length>
+					</track>
+				</bonus>
+			</album>
+			<albums name="Ride the Lightning">
+				<type>thrash metal</type>
+				<label>Megaforce</label>
+				<date>27/07/1984</date>
+				<length>47:26</length>
+				<tracks>
+					<track name="Fight Fire with Fire">
+						<length>4:44</length>
+					</track>
+					<track name="Ride the Lightning">
+						<length>6:37</length>
+					</track>
+					<track name="For Whom the Bell Tolls">
+						<length>5:11</length>
+					</track>
+					<track name="Fade to Black">
+						<length>6:55</length>
+					</track>
+					<track name="Trapped Under Ice">
+						<length>4:14</length>
+					</track>
+					<track name="Escape">
+						<length>4:08</length>
+					</track>
+					<track name="Creeping Death">
+						<length>5:01</length>
+					</track>
+					<track name="The Call of Ktulu">
+						<length>6:26</length>
+					</track>
+				</tracks>
+				<bonus name="digital reissue">
+					<track name="For Whom the Bell Tolls (live)">
+						<length>5:35</length>
+					</track>
+					<track name="Creeping Death (live)">
+						<length>8:12</length>
+					</track>
+				</bonus>
+			</album>
+			<albums name="Master of Puppets">
+				<type>thrash metal</type>
+				<label>Elektra</label>
+				<date>03/03/1986</date>
+				<length>54:52</length>
+				<tracks>
+					<track name="Battery">
+						<length>5:13</length>
+					</track>
+					<track name="Master of Puppets">
+						<length>8:36</length>
+					</track>
+					<track name="The Thing That Should Not Be">
+						<length>6:37</length>
+					</track>
+					<track name="Welcome Home (Sanitarium)">
+						<length>6:28</length>
+					</track>
+					<track name="Disposabe Heroes">
+						<length>8:17</length>
+					</track>
+					<track name="Leper Messiah">
+						<length>5:40</length>
+					</track>
+					<track name="Orion (instrumental)">
+						<length>8:28</length>
+					</track>
+					<track name="Damage, Inc.">
+						<length>5:33</length>
+					</track>
+				</tracks>
+				<bonus name="digital reissue">
+					<track name="Battery (live)">
+						<length>4:53</length>
+					</track>
+					<track name="The Thing That Should Not Be (live)">
+						<length>7:02</length>
+					</track>
+				</bonus>
+			</album>
+			<albums name="...And Justice for All">
+				<type>thrash metal</type>
+				<label>Elektra</label>
+				<date>25/08/1988</date>
+				<length>65:24</length>
+				<tracks>
+					<track name="Blackened">
+						<length>6:42</length>
+					</track>
+					<track name="...And Justice for All">
+						<length>9:46</length>
+					</track>
+					<track name="Eye of the Beholder">
+						<length>6:25</length>
+					</track>
+					<track name="One">
+						<length>7:26</length>
+					</track>
+					<track name="The Shortest Straw">
+						<length>6:35</length>
+					</track>
+					<track name="Harvester of Sorrow">
+						<length>5:45</length>
+					</track>
+					<track name="The Frayed Ends of Sanity">
+						<length>7:43</length>
+					</track>
+					<track name="To Live Is to Die">
+						<length>9:49</length>
+					</track>
+					<track name="Dyers Eve">
+						<length>5:14</length>
+					</track>
+				</tracks>
+			</album>
+			<albums name="Metallica">
+				<type>heavy metal</type>
+				<label>Elektra</label>
+				<date>12/08/1991</date>
+				<length>62:40</length>
+				<tracks>
+					<track name="Enter Sandman">
+						<length>5:31</length>
+					</track>
+					<track name="Sad but True">
+						<length>5:24</length>
+					</track>
+					<track name="Holier than Thou">
+						<length>3:47</length>
+					</track>
+					<track name="The Unforgiven">
+						<length>6:27</length>
+					</track>
+					<track name="Wherever I May Roam">
+						<length>6:44</length>
+					</track>
+					<track name="Don't Tread on Me">
+						<length>4:00</length>
+					</track>
+					<track name="Through the Never">
+						<length>4:04</length>
+					</track>
+					<track name="Nothing Else Matters">
+						<length>6:28</length>
+					</track>
+					<track name="Of Wolf and Man">
+						<length>4:16</length>
+					</track>
+					<track name="The God That Failed">
+						<length>5:08</length>
+					</track>
+					<track name="My Friend of Misery">
+						<length>6:49</length>
+					</track>
+					<track name="The Struggle Within">
+						<length>3:53</length>
+					</track>
+				</tracks>
+				<bonus name="Japanese edition">
+					<track name="So What (Anti-Nowhere League cover)">
+						<length>3:08</length>
+					</track>
+				</bonus>
+			</album>
+			<albums name="Load">
+				<type>hard rock</type>
+				<label>Elektra</label>
+				<date>04/06/1996</date>
+				<length>78:59</length>
+				<tracks>
+					<track name="Ain't My Bitch">
+						<length>5:04</length>
+					</track>
+					<track name="2 X 4">
+						<length>5:28</length>
+					</track>
+					<track name="The House Jack Built">
+						<length>6:39</length>
+					</track>
+					<track name="Until It Sleeps">
+						<length>4:28</length>
+					</track>
+					<track name="King Nothing">
+						<length>5:30</length>
+					</track>
+					<track name="Hero of the Day">
+						<length>4:22</length>
+					</track>
+					<track name="Bleeding Me">
+						<length>8:18</length>
+					</track>
+					<track name="Cure">
+						<length>4:54</length>
+					</track>
+					<track name="Poor Twisted Me">
+						<length>4:00</length>
+					</track>
+					<track name="Wasting My Hate">
+						<length>3:57</length>
+					</track>
+					<track name="Mama Said">
+						<length>5:20</length>
+					</track>
+					<track name="Thorn Within">
+						<length>5:52</length>
+					</track>
+					<track name="Ronnie">
+						<length>5::17</length>
+					</track>
+					<track name="The Outlaw Torn">
+						<length>9:49</length>
+					</track>
+				</tracks>
+			</album>
+			<albums name="Re-Load">
+				<type>hard rock</type>
+				<label>Elektra</label>
+				<date>18/11/1997</date>
+				<length>76:04</length>
+				<tracks>
+					<track name="Fuel">
+						<length>4:30</length>
+					</track>
+					<track name="The Memory Remains">
+						<length>4:39</length>
+					</track>
+					<track name="Devil's Dance">
+						<length>5:19</length>
+					</track>
+					<track name="The Unforgiven II">
+						<length>6:36</length>
+					</track>
+					<track name="Better Than You">
+						<length>5:21</length>
+					</track>
+					<track name="Slither">
+						<length>5:13</length>
+					</track>
+					<track name="Carpe Diem Baby">
+						<length>6:12</length>
+					</track>
+					<track name="Bad Seed">
+						<length>4:05</length>
+					</track>
+					<track name="Where the Wild Things Are">
+						<length>6:53</length>
+					</track>
+					<track name="Prince Charming">
+						<length>6:05</length>
+					</track>
+					<track name="Low Man's Lyric">
+						<length>7:36</length>
+					</track>
+					<track name="Attitude">
+						<length>5:17</length>
+					</track>
+					<track name="Fixxxer">
+						<length>8:15</length>
+					</track>
+				</tracks>
+			</album>
+			<albums name="Garage Inc.">
+				<type>heavy metal</type>
+				<label>Elektra</label>
+				<date>24/11/1998</date>
+				<length>136:38</length>
+				<tracks>
+					<track name="Free Speech for the Dumb">
+						<length>2:36</length>
+					</track>
+					<track name="It's Electric">
+						<length>3:34</length>
+					</track>
+					<track name="Sabbra Cadabra">
+						<length>6:20</length>
+					</track>
+					<track name="Turn the Page">
+						<length>6:06</length>
+					</track>
+					<track name="Die, Die My Darling">
+						<length>2:29</length>
+					</track>
+					<track name="Loverman">
+						<length>7:53</length>
+					</track>
+					<track name="Mercyfule Fate">
+						<length>11:11</length>
+					</track>
+					<track name="Astronomy">
+						<length>6:37</length>
+					</track>
+					<track name="Whiskey in the Jar">
+						<length>5:05</length>
+					</track>
+					<track name="Tuesday's Gone">
+						<length>9:06</length>
+					</track>
+					<track name="The More I See">
+						<length>4:49</length>
+					</track>
+					<track name="Helpless">
+						<length>6:38</length>
+					</track>
+					<track name="The Small Hours">
+						<length>6:43</length>
+					</track>
+					<track name="The Wait">
+						<length>4:55</length>
+					</track>
+					<track name="Crash Course in Brain Surgery">
+						<length>3:10</length>
+					</track>
+					<track name="Last Caress/Green Hell">
+						<length>3:30</length>
+					</track>
+					<track name="Am I Evil?">
+						<length>7:50</length>
+					</track>
+					<track name="Blitzkrieg">
+						<length>3:37</length>
+					</track>
+					<track name="Breadfan">
+						<length>5:41</length>
+					</track>
+					<track name="The Prince">
+						<length>4:26</length>
+					</track>
+					<track name="Stone Cold Crazy">
+						<length>2:19</length>
+					</track>
+					<track name="So What">
+						<length>3:09</length>
+					</track>
+					<track name="Killing Time">
+						<length>3:04</length>
+					</track>
+					<track name="Overkill">
+						<length>4:05</length>
+					</track>
+					<track name="Damage Case">
+						<length>3:40</length>
+					</track>
+					<track name="Stone Dead Forever">
+						<length>4:52</length>
+					</track>
+					<track name="Too Late Too Late">
+						<length>3:12</length>
+					</track>
+				</tracks>
+			</album>
+			<albums name="St. Anger">
+				<type>alternative metal</type>
+				<label>Elektra</label>
+				<date>05/06/2003</date>
+				<length>75:01</length>
+				<tracks>
+					<track name="Frantic">
+						<length>5:50</length>
+					</track>
+					<track name="St. Anger">
+						<length>7:21</length>
+					</track>
+					<track name="Some Kind of Monster">
+						<length>8:25</length>
+					</track>
+					<track name="Dirty Window">
+						<length>5:24</length>
+					</track>
+					<track name="Invisible Kid">
+						<length>8:30</length>
+					</track>
+					<track name="My World">
+						<length>5:45</length>
+					</track>
+					<track name="Shoot Me Again">
+						<length>7:10</length>
+					</track>
+					<track name="Sweet Amber">
+						<length>5:27</length>
+					</track>
+					<track name="The Unnamed Feeling">
+						<length>7:08</length>
+					</track>
+					<track name="Purify">
+						<length>5:13</length>
+					</track>
+					<track name="All Within My Hands">
+						<length>8:48</length>
+					</track>
+				</tracks>
+			</album>
+			<albums name="Death Magnetic">
+				<type>thrash metal</type>
+				<label>Warner Bros.</label>
+				<date>12/09/2008</date>
+				<length>74:54</length>
+				<tracks>
+					<track name="That Was Just Your Life">
+						<length>7:10</length>
+					</track>
+					<track name="The End of the Line">
+						<length>7:50</length>
+					</track>
+					<track name="Broken, Beat and Scarred">
+						<length>6:25</length>
+					</track>
+					<track name="The Day That Never Comes">
+						<length>7:55</length>
+					</track>
+					<track name="All Nightmare Long">
+						<length>8:01</length>
+					</track>
+					<track name="Cyanide">
+						<length>6:41</length>
+					</track>
+					<track name="The Unforgiver III">
+						<length>7:47</length>
+					</track>
+					<track name="The Judas Kiss">
+						<length>8:02</length>
+					</track>
+					<track name="Suicide and Redemption (instrumental)">
+						<length>10:02</length>
+					</track>
+					<track name="My Apocalypse">
+						<length>5:01</length>
+					</track>
+				</tracks>
+				<bonus name="Deluxe edition">
+					<track name="Hi Guy">
+						<length>7:11</length>
+					</track>
+					<track name="Neinteen">
+						<length>7:35</length>
+					</track>
+					<track name="Black Squirrel">
+						<length>6:13</length>
+					</track>
+					<track name="Casper">
+						<length>8:15</length>
+					</track>
+					<track name="Flamingo">
+						<length>7:59</length>
+					</track>
+					<track name="German Soup">
+						<length>6:31</length>
+					</track>
+					<track name="UN3">
+						<length>7:50</length>
+					</track>
+					<track name="Gymbag">
+						<length>7:55</length>
+					</track>
+					<track name="K2LU">
+						<length>9:30</length>
+					</track>
+					<track name="Ten">
+						<length>5:18</length>
+					</track>
+				</bonus>
+			</album>
+			<albums name="Hardwired... to Self-Destruct">
+				<type>heavy metal</type>
+				<label>Blackened</label>
+				<date>18/11/2016</date>
+				<length>77:42</length>
+				<tracks>
+					<track name="Hardwired">
+						<length>3:09</length>
+					</track>
+					<track name="Atlas, Rise!">
+						<length>6:28</length>
+					</track>
+					<track name="Now That We're Dead">
+						<length>6:59</length>
+					</track>
+					<track name="Moth into Flame">
+						<length>5:50</length>
+					</track>
+					<track name="Dream No More">
+						<length>6:29</length>
+					</track>
+					<track name="Halo on Fire">
+						<length>8:15</length>
+					</track>
+					<track name="Confusion">
+						<length>6:43</length>
+					</track>
+					<track name="ManUNkind">
+						<length>6:55</length>
+					</track>
+					<track name="Here Comes Revenge">
+						<length>7:17</length>
+					</track>
+					<track name="Am I Savage?">
+						<length>6:30</length>
+					</track>
+					<track name="Murder One">
+						<length>5:45</length>
+					</track>
+					<track name="Spit Out the Bone">
+						<length>7:09</length>
+					</track>
+				</tracks>
+				<bonus name="Deluxe edition">
+					<track name="Lords of Summer">
+						<length>7:10</length>
+					</track>
+					<track name="Ronnie Rising Medley">
+						<length>9:03</length>
+					</track>
+					<track name="When a Blind Man Cries">
+						<length>4:35</length>
+					</track>
+					<track name="Remember Tomorrow">
+						<length>5:50</length>
+					</track>
+					<track name="Helpless (live)">
+						<length>3:08</length>
+					</track>
+					<track name="Hit the Lights (live)">
+						<length>4:07</length>
+					</track>
+					<track name="The Four Horsemen (live)">
+						<length>5:19</length>
+					</track>
+					<track name="Ride the Lightning (live)">
+						<length>6:56</length>
+					</track>
+					<track name="Fade to Black (live)">
+						<length>7:24</length>
+					</track>
+					<track name="Jump in the Fire (live)">
+						<length>5:13</length>
+					</track>
+					<track name="For Whome the Bell Tolls (live)">
+						<length>4:32</length>
+					</track>
+					<track name="Creeping Death (live)">
+						<length>6:43</length>
+					</track>
+					<track name="Metal Militia (Live)">
+						<length>6:07</length>
+					</track>
+					<track name="Hardwired (live)">
+						<length>3:30</length>
+					</track>
+				</bonus>
+			</album>
+			<albums name="72 Seasons">
+				<type>heavy metal</type>
+				<label>Blackened</label>
+				<date>14/04/2023</date>
+				<length>77:14</length>
+				<tracks>
+					<track name="72 Seasons">
+						<length>7:39</length>
+					</track>
+					<track name="Shadows Follow">
+						<length>6:12</length>
+					</track>
+					<track name="Screaming Suicide">
+						<length>5:30</length>
+					</track>
+					<track name="Sleepwalk My Life Away">
+						<length>6:56</length>
+					</track>
+					<track name="You Must Burn!">
+						<length>7:03</length>
+					</track>
+					<track name="Lux Æterna">
+						<length>3:22</length>
+					</track>
+					<track name="Crown of Barbed Wire">
+						<length>5:49</length>
+					</track>
+					<track name="Chasing Light">
+						<length>6:45</length>
+					</track>
+					<track name="If Darkness Had a Son">
+						<length>6:36</length>
+					</track>
+					<track name="Too Far Gone?">
+						<length>4:34</length>
+					</track>
+					<track name="Room of Mirrors">
+						<length>5:34</length>
+					</track>
+					<track name="Inamorata">
+						<length>11:10</length>
+					</track>
+				</tracks>
+			</album>
+		</albums>
+	</band>
+
+</metalstore>
